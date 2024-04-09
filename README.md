@@ -1,35 +1,10 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+# Ariel Aguilar
 
-Bienvenidos a
-# Programación con objetos I
+Hola!
+Me Llamo Ariel Aguilar (mi proimer nombre es Francisco pero todos me llaman Ariel).
+Estoy cursando el 3er cuatrimestre de PorgramaciÃ³n de Videojuegos.
+NacÃ­ y vivo en Rosario, Santa Fe.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Soy mÃºsico, me gusta componer y hacer efectos de sonido y estoy aprendiendo programaciÃ³n.
+Mi objetivo actual es terminar un proyecto de videojuego 3D en solitario que debo admitir, va muy bien. El mayor desafÃ­o que estoy teniendo es aprender "un poco de todo" (por ejemplo, modelado) para ser lo mas autosuficiente que pueda.
+AsÃ­ mismo disfruto compartir proyectos y las pocas experiencias que tuve trabajando con compaÃ±eros de la carrera fueron geniales. Se aprende mucho compartiendo.
